@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 Qᴜᴇᴇɴ ダ ᴍᴜsɪᴄ 」──
+    ──「 𝙻𝙾𝚅𝙴 ダ 𝙼𝚄𝚂𝙸𝙲 」──
 </h2>
 
 <p align="center">
-  <img src="https://files.catbox.moe/xxaycr.jpg">
+  <img src="https://files.catbox.moe/o9kx98.jpg">
 </p>
 
 <p align="center">
